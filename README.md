@@ -1,7 +1,4 @@
-# Exercicios-Unis-Linguagem-Programacao-Ciclo4
- Atividade ciclo 4 
-
-  <h1 align="center"> 
+<h1 align="center"> 
       <strong> Exercício – Ciclo 4 - Conceitos da Linguagem e Python POO - Módulos, Classes e Métodos
         </strong>
     </h1>
@@ -13,7 +10,7 @@
 
 <div>
   <h1 align="center"> 
-      <strong> A proposta nessa atividade é aproveitarmos o que já estudamos na atividade 3 sobre o IMC. Criei fazer uma aplicação de IMC, que use banco de dados SQLite, rodando no terminal, armazenando os cálculos de IMC feitos pelo usuário. <br>#PartiuCodar!
+      <strong> A proposta nessa atividade é aproveitarmos o que já estudamos na atividade 3 sobre o IMC. Criar uma aplicação  que calcula o IMC, usando banco de dados SQLite, rodando no terminal, armazenando os cálculos de IMC feitos pelo usuário. <br>#PartiuCodar!
       </strong>
     </h1>
 </div>
