@@ -16,8 +16,8 @@
 </div>
 <div>
   <div align="left">
-    <h3 align="left"> 1) Execute o processamento dos dados para calcular como o IMC do paciente está. Use a seguinte referência para fazer o cálculo…  https://pt.wikipedia.org/wiki/%C3%8Dndice_de_massa_corporal</h3>    
-    <h3 align="left"> 2) Criar banco de dados usando SQLite para registrar as informações</h3>    
+    <h3 align="left"> 1) Execute o processamento dos dados para calcular como o IMC do paciente,use a seguinte referência para fazer o cálculo…  https://pt.wikipedia.org/wiki/%C3%8Dndice_de_massa_corporal</h3>    
+    <h3 align="left"> 2) Criar banco de dados usando SQLite para registrar as informações.</h3>    
     <h3 align="left"> 3) Publique os códigos na sua conta do GitHub e posteriormente responda a atividade postando a URL do seu projeto no Github para que o professor possa fazer a execução do código e a correção da atividade</h3>
 <div>
   <div align="right">
